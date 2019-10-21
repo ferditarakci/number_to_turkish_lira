@@ -1,4 +1,4 @@
-# NumberToTurkishLira
+# NumberToTurkishLira - ASP (VbScript)
 
 ### Sayıyı Türk Lirası Olarak Yazıya Çevirme - Klasik ASP (VbScript)
 
