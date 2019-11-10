@@ -2,6 +2,12 @@
 
 <%
 
+' @date		: 27/04/2012
+' @package	: NumberToTurkishLira
+' @author 	: Ferdi Tarakci
+' @web		: https://www.ferditarakci.com
+' @contact	: bilgi@ferditarakci.com
+
 Response.Charset = "utf-8"
 Response.CodePage = 65001
 
@@ -50,6 +56,9 @@ Function NumberToTurkishLira(ByVal Tutar)
 	NumberToTurkishLira = Trim(strTL)
 End Function
 
+
+
+'################################################################
 
 
 
