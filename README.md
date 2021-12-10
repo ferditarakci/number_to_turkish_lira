@@ -1,6 +1,6 @@
-# NumberToTurkishLira - ASP (VbScript)
+# Convert Turkish Lira From Number to Text With ASP (VbScript)
 
-### Sayıyı Türk Lirası Olarak Yazıya Çevirme - Klasik ASP (VbScript)
+### Klasik ASP (VbScript) ile Türk Lirasını Sayıdan Yazıya Çevirin
 
 **2012 yılında hazırladığım sayıyı Türk Lirası olarak yazıya çevirme fonksiyonunu eski dosyaların arasında buldum ve yayınlamak istedim. Umarım birilerinin işine yarar.**
 
